@@ -29,7 +29,8 @@ The project goal is to create a night ride experience in a retro/synth-wave/arca
 
 ## Video Link 
 
-[![Retro Groover Case Study Video](https://youtu.be/_ZFO38cY8H4)
+[![Retro Groover Case Study Video]()
+[![](https://github.com/VFS-VRAR/VAR05-RetroGroover-FinalProject/blob/main/RetroGrooveMainImage.jpg)](https://youtu.be/_ZFO38cY8H4)
 
 ## Beyond
   -	When the player miss certain amount of ghosts they will go into another black and white level to collect spirits, if players are able to collect certain amount of spirits in the black and white level they are able to back to the main level. 
