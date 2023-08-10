@@ -29,7 +29,6 @@ The project goal is to create a night ride experience in a retro/synth-wave/arca
 
 ## Video Link 
 
-[![Retro Groover Case Study Video]()
 [![](https://github.com/VFS-VRAR/VAR05-RetroGroover-FinalProject/blob/main/RetroGrooveMainImage.jpg)](https://youtu.be/_ZFO38cY8H4)
 
 ## Beyond
