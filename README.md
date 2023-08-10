@@ -17,12 +17,10 @@ The project goal is to create a night ride experience in a retro/synth-wave/arca
   -	Good views 
   -	Quick reflexes
 
-*  Features
+## Features
   -	Ghost system: ghosts spawn on beat 
   -	Shoot bullets at ghosts: if you didn’t hit it when the ring shrink down to the enemy you’ll get a miss judgment, if you shoot it on time you’ll  get a Great judgment   
-
--	UI 
-A sci-fi  widget will pop up on your right wrist when the player move their hand in front and look at their wrist to pause or start the game 
+  -	UI: A sci-fi  widget will pop up on your right wrist when the player move their hand in front and look at their wrist to pause or start the game 
 
 
 ## Controls
