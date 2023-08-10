@@ -4,6 +4,10 @@
 
 ## Summary 
 
+<p align="center">
+  <img alt="Preview" width="660" alt="preview" src="https://github.com/VFS-VRAR/VAR05-RetroGroover-FinalProject/blob/main/RetroGrooveMainImage.jpg">
+<p align="center">
+
 Retro Groover will take you on a ride in a synth-wave city, but don’t just chill out yet you are still on duty to bust ghosts along your ride ! Shoot your enemies on beat and enjoy your view ~
 
 ## Project Aim / Goal / Pillars
